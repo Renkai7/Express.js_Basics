@@ -1,9 +1,9 @@
 <!-- Project title here -->
 
-# Project Title
+# Express.js Introduction
 
 <!-- Example of project description -->
 
-Foobar is a Python library for dealing with word pluralization.
+This project is for learning the basics of Express.js
 
 <!-- Example of code output -->
